@@ -10,7 +10,3 @@ do
 done
 echo "Contenedor iniciado, accediendo a la base de datos..."
 docker exec -it mysql-docker mysql -u root -p
-
-# Interactua con la base de datos:
-
-# SHOW DATABASES;
